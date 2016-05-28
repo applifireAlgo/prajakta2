@@ -1,0 +1,2 @@
+
+GRANT ALL PRIVILEGES  ON prajakta2.* TO 'algo'@'%' IDENTIFIED BY 'algo' WITH GRANT OPTION
